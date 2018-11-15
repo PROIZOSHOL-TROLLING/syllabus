@@ -17,3 +17,4 @@ git@github.com:Technopark-Kvantum/syllabus.git
 ![](./images/git_gui7.png "Отправка изменений в репозиторий")
 ![](./images/git_gui8.png "Получение изменений из репозитория 1 - фетч")
 ![](./images/git_gui8.png "Получение изменений из репозитория 2 - локальное слияние")
+
