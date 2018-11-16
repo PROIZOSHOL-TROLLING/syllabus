@@ -1,7 +1,5 @@
 # Командная разработка
 
-git@github.com:Technopark-Kvantum/syllabus.git
-
 Для коммуникации будут 
 
 
